@@ -1,3 +1,4 @@
 Add New Sentence
 
 Local에서 추가 입력 Add New Sentence
+원격에서 강제 입력
