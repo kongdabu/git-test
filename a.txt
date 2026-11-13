@@ -1,1 +1,3 @@
 Add New Sentence
+
+Local에서 추가 입력 Add New Sentence
